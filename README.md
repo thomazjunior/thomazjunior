@@ -1,7 +1,5 @@
 ### Hi there 👋 
-
-- 👀 I am interested in a job vacancy like back-end, front-end or fullstack.
-- 🌱 I’m currently learning Reac Native and PHP
+- 🌱 I’m currently working for Randtech 
 - 📫 How to reach me: p.thomaz.junior@gmail.com
 
  <div>
