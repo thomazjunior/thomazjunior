@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## My Journey
 <div>
   <!-- Display GitHub stats -->
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=thomazjunior&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&year=2024">
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=thomazjunior&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide=stars,issues&show=,prs_merged,prs_merged_percentage">
   
   <!-- Display language stats with public and private contributions -->
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thomazjunior&layout=compact&theme=onedark&count_private=true">
@@ -66,3 +66,5 @@ Here are some ideas to get you started:
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/thomazjunior/thomazjunior/output/github-contribution-grid-snake-dark.svg)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
