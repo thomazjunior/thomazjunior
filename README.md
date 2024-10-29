@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ✨ I study: React, Kubernetes, Rust, Node.js
 
 ## About me:
-- 😄 Fun fact: I'm a former Java developer who worked at IBM.
+- 😄 Fun fact: I'm a former Java developer who worked at RandTech.
 - 🔭 I’m looking to collaborate on commercial projects and startups.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:p.thomaz.junior@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
