@@ -31,14 +31,10 @@ Here are some ideas to get you started:
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
-- 5+ years of experience in React, Node.js, Express.js, async, and await.
-- 3+ years of experience in Kubernetes.
-- 1+ years of experience in Rust.
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
-- ❤️ API, RESTful API, GraphQL
-- HTML/CSS, JavaScript
+- 7+ years of experience in React, Next.JS, JavaScript, async, and await.
+- 4+ years of experience in Java, Maven, SpringBoot, JUnit.
 - Git, Docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB
+- SQL, MySQL
 - LocalStorage, SessionStorage, JWT
 
 ## Languages and Tools:
