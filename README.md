@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=thomazjunior&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide=stars,issues&show=,prs_merged,prs_merged_percentage">
   
   <!-- Display language stats with public and private contributions -->
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thomazjunior&layout=compact&theme=onedark&count_private=true">
+  <img width="385px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=thomazjunior&layout=compact&theme=onedark&count_private=false&langs_count=100">
 
   <!-- Display activity graph for the last two years -->
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=thomazjunior&theme=github&count_private=true&include_all_commits=true">
