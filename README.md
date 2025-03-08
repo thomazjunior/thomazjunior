@@ -41,33 +41,3 @@
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/thomazjunior/thomazjunior/output/github-contribution-grid-snake-dark.svg)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🇫🇷 Section Française
-
-### À propos de moi :
-- 🔥 Développeur Full Stack passionné par React et Node.js.  
-- 💼 Ancien développeur Java ayant travaillé chez RandTech.  
-- 🚀 Actuellement, je travaille avec Kubernetes et l’edge computing.  
-- 📚 J’apprends et j’expérimente avec React, Kubernetes, Rust et Node.js.  
-- 📫 Contactez-moi : [Email](mailto:p.thomaz.junior@gmail.com).  
-- 💬 Posez-moi des questions sur le `Frontend` ou le `Backend`.  
-
-### Mon stack :
-- 7+ ans d'expérience en React, Next.JS, JavaScript, async/await.  
-- 4+ ans d'expérience en Java, Maven, SpringBoot, JUnit.  
-- Maîtrise de Git, Docker, CI/CD.  
-- Bases de données : SQL, MySQL.  
-- Sécurité et stockage : LocalStorage, SessionStorage, JWT.  
-
-### Mon Parcours :
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=thomazjunior&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide=stars,issues&show=,prs_merged,prs_merged_percentage">
-  <img width="385px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=thomazjunior&layout=compact&theme=onedark&count_private=false&langs_count=100">
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=thomazjunior&theme=github&count_private=true&include_all_commits=true">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=thomazjunior&theme=onedark&count_private=true">
-</div>
-
----
-
