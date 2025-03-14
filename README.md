@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer from [Portugal/Porto] </h3>
 
 ❤️ I prefer React on the frontend and Node.js with MySQL, MongoDB, and PostgreSQL on the backend.  
-🤔 I'm currently working on Kubernetes with edge computing.  
+
 
 ✨ I study: React, Kubernetes, Rust, Node.js  
 
